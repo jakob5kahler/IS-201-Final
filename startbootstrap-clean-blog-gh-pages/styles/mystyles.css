@@ -1,0 +1,25 @@
+html, body {
+    background-color: beige;
+}
+h2.post-title {
+    font-family: 'Courier New', Courier, monospace !important;
+    color: lightslategray;
+}
+h3 {
+    color: gray;
+}
+p {
+    text-align: center;
+    padding-right: 60px;
+    font-weight: 500;
+}
+.footercolor {
+    color: red !important;
+}
+footer {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.subwhite {
+    color: white;
+}

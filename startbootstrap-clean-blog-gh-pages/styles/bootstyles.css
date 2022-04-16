@@ -1,0 +1,46 @@
+body {
+    background-color: beige
+}
+.home {
+    padding-left: 1300px;
+}
+.about {
+    padding-left: 1300px;
+}
+.tableau {
+    padding-left: 1300px;
+}
+.resume {
+    padding-left: 1300px;
+}
+h5 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.center {
+    text-align: center;
+}
+.bottomleft {
+    text-align: left;
+}
+li {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: x-large;
+}
+footer {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+head {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+body {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.footercolor {
+    color: lightslategray
+}
+
